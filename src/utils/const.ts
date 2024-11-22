@@ -107,8 +107,6 @@ export const IGNORE_START_END_RANGE = 200
 
 export const IGNORE_RANGE = 200
 
-export const IGNORE_POLYLINE = ktjrFoemeU~IorGq}DeB
-
 export const IGNORE_BEFORE_SAVING = 1
 
 // If your map has an offset please change this line
